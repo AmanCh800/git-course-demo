@@ -1,1 +1,1 @@
-"Git course demo" 
+Git course demo 
